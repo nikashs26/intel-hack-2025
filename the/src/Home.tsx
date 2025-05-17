@@ -42,7 +42,7 @@ function NavBar() {
         <div className="logo">SCU Clubs</div>
         <ul className="nav-links">
           <li><Link to="/">Home</Link></li>
-          <li><Link to="/clubs">Clubs</Link></li> {/* fixed this line */}
+          <li><Link to="/clubs">Clubs</Link></li>
         </ul>
       </div>
     </nav>
