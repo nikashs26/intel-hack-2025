@@ -49,7 +49,7 @@ function NavBar() {
   );
 }
 
-function App() {
+function Home() {
   return (
     <>
       <NavBar />
@@ -89,4 +89,4 @@ function App() {
   );
 }
 
-export default App;
+export default Home;

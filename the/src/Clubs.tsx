@@ -1,5 +1,6 @@
-import React from "react";
+
 import "./Clubs.css";
+import "./Home";
 
 interface Club {
   name: string;
