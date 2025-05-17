@@ -14,7 +14,7 @@ const clubsData: Club[] = [
   { name: "AI Collaborate", description: "Hackathons, discussions on the use and impact of AI in the tech world, and more!", image: "/images/aicollab.jpeg" },
   { name: "Asian Pacific Student Union (APSU)", description: "Cultural events, cool food, cool activities, and a whole lot of fun!", image: "/images/apsu.jpeg" },
   { name: "Esports", description: "Play your favorite games with us and compete for prizes!", image: "/images/esports.jpeg" },
-  { name: "Photography Club", description: "Capture stuff with us picture-perfectly.", image: "/images/coding.jpg" },
+  { name: "Photography Club", description: "Capture stuff with us picture-perfectly.", image: "/images/photography.jpeg" },
   { name: "Chess Club", description: "Act, direct, or write for stage productions.", image: "/images/drama.jpg" },
   { name: "Dance Crew", description: "Hip-hop, contemporary, and cultural performances.", image: "/images/photography.jpeg" },
 ];
